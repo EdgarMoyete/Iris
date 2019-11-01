@@ -1,61 +1,74 @@
 # Iris
-IrisClasificadoresCross
-1--------------------------------------------------
+##IrisClasificadoresCross.ipynb
+--------------------------------------------------
 Iris.csv
 clasificadores
 CV=cross_val_score
 
+##IrisHiperparametros.ipynb
+--------------------------------------------------
+MLP
+GridSearchCV
 
-IrisKMeans
-2--------------------------------------------------
+##IrisKMeans.ipynb
+--------------------------------------------------
 Iris2.csv
 k-means
 
-
-IrisMLP-CV-CrossFacil
-3--------------------------------------------------
-MLP
-CV=cross_val_score
-
-
-IrisMLP-CV-KFold
-4--------------------------------------------------
-MLP
-CV=KFold
-
-
-IrisMLP-CV-ShuffleSplit
-5--------------------------------------------------
-MLP
-CV=cross_val_score con ShuffleSplit
-
-
-IrisMLP-CV-StratifiedKFold
-6--------------------------------------------------
-MLP
-CV=StratifiedKFold
-
-
-IrisMLP2TrainTest
-7--------------------------------------------------
+##IrisMLP2TrainTest.ipynb
+--------------------------------------------------
 Iris.csv
 MLP con 10 neuronas y tanh
 
+##IrisMLP-CV-CrossFacil.ipynb
+--------------------------------------------------
+MLP
+CV=cross_val_score
 
-IrisMLPKerasStratified
-8--------------------------------------------------
+##IrisMLP-CV-KFold.ipynb
+--------------------------------------------------
+MLP
+CV=KFold
+
+##IrisMLP-CV-ShuffleSplit.ipynb
+--------------------------------------------------
+MLP
+CV=cross_val_score con ShuffleSplit
+
+##IrisMLP-CV-StratifiedKFold.ipynb
+--------------------------------------------------
+MLP
+CV=StratifiedKFold
+
+##IrisMLPKerasStratified.ipynb
+--------------------------------------------------
 Iris2.csv
 MLP-Keras
 CV=StratifiedKFold
-(chido)
+**Este es el bueno**
 
-
-IrisMLPKerasTrainTestPredictFacil
-9--------------------------------------------------
+##IrisMLPKerasTrainTestPredictFacil.ipynb
+--------------------------------------------------
 MLP-Keras
 predicciones
 
-
-IrisMLPTrainTestFacil
-10--------------------------------------------------
+##IrisMLPTrainTestFacil.ipynb
+--------------------------------------------------
 MLP
+
+##MLPDataFrameKeras.ipynb
+--------------------------------------------------
+Iris.csv
+MLP-Keras
+
+##MLPDataFrameKeras2.ipynb
+--------------------------------------------------
+Iris.csv
+MLP-Keras
+No se dividieron los datos porque solo era para ver si el modelo aceptaba como entrada un DataFrame
+
+##MLPDataFrameSKLearn.ipynb
+--------------------------------------------------
+Iris.csv
+MLP
+No se dividieron los datos porque solo era para ver si el modelo aceptaba como entrada un DataFrame
