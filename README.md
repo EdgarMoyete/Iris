@@ -1,73 +1,73 @@
 # Iris
-##IrisClasificadoresCross.ipynb
+## IrisClasificadoresCross.ipynb
 --------------------------------------------------
 Iris.csv
 clasificadores
 CV=cross_val_score
 
-##IrisHiperparametros.ipynb
+## IrisHiperparametros.ipynb
 --------------------------------------------------
 MLP
 GridSearchCV
 
-##IrisKMeans.ipynb
+## IrisKMeans.ipynb
 --------------------------------------------------
 Iris2.csv
 k-means
 
-##IrisMLP2TrainTest.ipynb
+## IrisMLP2TrainTest.ipynb
 --------------------------------------------------
 Iris.csv
 MLP con 10 neuronas y tanh
 
-##IrisMLP-CV-CrossFacil.ipynb
+## IrisMLP-CV-CrossFacil.ipynb
 --------------------------------------------------
 MLP
 CV=cross_val_score
 
-##IrisMLP-CV-KFold.ipynb
+## IrisMLP-CV-KFold.ipynb
 --------------------------------------------------
 MLP
 CV=KFold
 
-##IrisMLP-CV-ShuffleSplit.ipynb
+## IrisMLP-CV-ShuffleSplit.ipynb
 --------------------------------------------------
 MLP
 CV=cross_val_score con ShuffleSplit
 
-##IrisMLP-CV-StratifiedKFold.ipynb
+## IrisMLP-CV-StratifiedKFold.ipynb
 --------------------------------------------------
 MLP
 CV=StratifiedKFold
 
-##IrisMLPKerasStratified.ipynb
+## IrisMLPKerasStratified.ipynb
 --------------------------------------------------
 Iris2.csv
 MLP-Keras
 CV=StratifiedKFold
 **Este es el bueno**
 
-##IrisMLPKerasTrainTestPredictFacil.ipynb
+## IrisMLPKerasTrainTestPredictFacil.ipynb
 --------------------------------------------------
 MLP-Keras
 predicciones
 
-##IrisMLPTrainTestFacil.ipynb
+## IrisMLPTrainTestFacil.ipynb
 --------------------------------------------------
 MLP
 
-##MLPDataFrameKeras.ipynb
+## MLPDataFrameKeras.ipynb
 --------------------------------------------------
 Iris.csv
 MLP-Keras
 
-##MLPDataFrameKeras2.ipynb
+## MLPDataFrameKeras2.ipynb
 --------------------------------------------------
 Iris.csv
 MLP-Keras
 No se dividieron los datos porque solo era para ver si el modelo aceptaba como entrada un DataFrame
 
-##MLPDataFrameSKLearn.ipynb
+## MLPDataFrameSKLearn.ipynb
 --------------------------------------------------
 Iris.csv
 MLP
